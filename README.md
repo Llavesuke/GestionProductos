@@ -12,8 +12,8 @@ Esta es una aplicación Spring Boot para gestionar productos.
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/IES-Rafael-Alberti/gesti-n-de-productos-simple-con-spring-mvc-Llavesuke
-    cd gesti-n-de-productos-simple-con-spring-mvc-Llavesuke
+    git clone https://github.com/Llavesuke/GestionProductos
+    cd GestionProductos
     ```
 ## Ejecución
 
